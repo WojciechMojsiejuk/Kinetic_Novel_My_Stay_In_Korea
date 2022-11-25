@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 119: expected statement.
+    renpy.movie_cutscene("folk01.mp4", stop_music=False)
+                                                        ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Fri Nov 25 13:29:13 2022
